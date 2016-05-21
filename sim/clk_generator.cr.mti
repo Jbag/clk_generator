@@ -1,0 +1,17 @@
+D:/FPGA/altera13.0project/clk_generator/design/clk_generator_tb.v {2 {vlog -work work -vopt D:/FPGA/altera13.0project/clk_generator/design/clk_generator_tb.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+** Warning: D:/FPGA/altera13.0project/clk_generator/design/clk_generator_tb.v(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+-- Compiling module clk_generator_tb
+
+Top level modules:
+	clk_generator_tb
+
+} {} {}} D:/FPGA/altera13.0project/clk_generator/design/clk_generator.v {1 {vlog -work work -vopt D:/FPGA/altera13.0project/clk_generator/design/clk_generator.v
+Model Technology ModelSim SE-64 vlog 10.2 Compiler 2013.02 Feb  2 2013
+-- Compiling module clk_generator
+
+Top level modules:
+	clk_generator
+
+} {} {}}
