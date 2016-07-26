@@ -60,4 +60,13 @@ module choose_state(
 	
 	endmodule
 	
-	
+	begin
+		end
+	end
+    begin
+        gi
+        begin
+            dad、
+    endmodule
+    begin
+        input
